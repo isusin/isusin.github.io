@@ -12,6 +12,8 @@ Things I really want for the site (help is appreciated):
 
 1. link extensions like on [gwern](https://www.gwern.net/). I really like wikipedia and pdf ones, they are useful. Footnotes are also nicely done, although I'm more low-brow wrt page margins.
 2. Even simpler and richer blog entrying. That's one thing that is really well done even in the present-day livejournal and I miss it in every other blogging place I use.
-3. Just random customization bells and whistles
+3. https://github.com/pacollins/hugo-future-imperfect-slim - to grab multilingual stuff from here (I really want to post most things in English but also some in Russian, other languages may follow as well)
+4. master shortcodes, hugo-derived and otherwise
+5. Just random customization bells and whistles
 
 [comment]: <> (Comments are not included)
